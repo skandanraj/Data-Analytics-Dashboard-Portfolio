@@ -31,7 +31,7 @@ The dashboard consists of four analytical pages:
 
 # 1️⃣ Executive Overview
 
-![Executive Overview]("Executive_Overview.png")
+![Executive Overview](Executive_Overview.png)
 
 The **Executive Overview page** provides a high-level summary of how patients interact with the digital health records feature.
 
