@@ -19,7 +19,9 @@ This dashboard enables executives and managers to quickly assess operational eff
 
 ## 🖼 Dashboard Preview
 
-![CEO-Tracker-Dashboard](CEO(Tracker_Dashboard.png)
+## 🖼 Dashboard Preview
+
+![CEO Tracker Dashboard]("CEO(Tracker_Dashboard).png")
 
 ---
 
@@ -132,4 +134,4 @@ The data displayed in this dashboard is **sample or anonymized data used for dem
 
 **Skanda N Raj**
 
-💡 Data Analytics | Machine Learning | Data Visualization
+💡 Data Analyst | Data Engineering 
