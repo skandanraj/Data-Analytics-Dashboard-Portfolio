@@ -19,8 +19,7 @@ This dashboard enables executives and managers to quickly assess operational eff
 
 ## 🖼 Dashboard Preview
 
-![CEO-Tracker-Dashboard]("CEO(Tracker_Dashboard).png")
-
+![CEO-Tracker-Dashboard](CEO(Tracker_Dashboard).png)
 ---
 
 # ✨ Key Features
